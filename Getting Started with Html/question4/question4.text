@@ -1,0 +1,26 @@
+TAG:-
+Tag command used to tell the browser how to display content on a page, A developer use tags for rendering his content on web page in well structural manner,Every tag in HTML perform different tasks.
+Tags are always written in brackets.("<"TAG NAME">"), mostly tags are come in pairs first part is opening tag "<opening tag>" and the other one is closing tag         "</closing tag>"and between them we write our "content" which we want to formated on web page. 
+we can under stand this with an example:-
+   <p> Here i use a paragraph tag with opening tag then i write my textcontent which i want to rendered on browser  then we use closing tag.</p> 
+   there many tags developers can use in html.
+   example:
+   Heading tag - <h1>content</h1>
+   paragraph tag - <p> content </p>
+   bold tag - <b> content </>
+   
+   Some HTML tags are not closed example
+   <br> Tag: br stands for break line, it breaks the line of the code.
+
+ELEMENTS:-
+
+AN HTML file made of element,the actual data which we want define on browser wriiten with the help of tags is element .the syntax of element is 
+"<opening tag> content </closing tag>" the whole structure is called element or we can say there are three major parts of elements is opening tag ,content,closing tag
+but Some elements does not have end tag and content, these elements are termed as empty elements or self-closing element or void elements.
+example:-
+ <br> (represents a line break) , <hr>(represents a horizontal line), etc.
+ HTML elements are usually "inline-level" or "block-level" elements.
+
+ A block-level element always start with new line and takes the full width of web page, from left to right.
+
+ A inline elements does not start with new line and take width as per requirement.

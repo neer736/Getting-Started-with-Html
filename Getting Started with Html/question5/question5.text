@@ -1,0 +1,22 @@
+DOCTYPE DECLARATION :-
+
+The doctype declaration in HTML is used to specify the version of the html being used in a web page.it is write on the top of the document before html tag.
+the mostly used doctype delaration is
+
+<!DOCTYPE html>
+
+ it is indicate that the document is written in HTML5, which allows the browser to render page correctly and apply the appropriate rendering rules.. it is the latest version of the HTML , HTML5 introduced a simplified and standard DOCTYPE declaration for all HTML using by developers.
+
+The DOCTYPE declaration serves several important purposes:
+
+Document Type Identification: It tells the browser which version of HTML or XML is being used. 
+
+Quirks Mode vs. Standards Mode: It determines whether the browser should render the page in quirks mode  or standards mode.
+In present time web development, it's common practice to use <!DOCTYPE html> for all new HTML documents by developers.
+Before  HTML5, DOCTYPE declarations were more complex and specific to the version of HTML being used. 
+
+For example, in HTML 4.01, 
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+After HTML5 world wide  standard developers using becuase of  it is simplified and consistent DOCTYPE declaration for all HTML documents.
